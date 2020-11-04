@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static void main(String[] args)
     {
-        System.out.println("Hello means hej in Swedish, World");
+        System.out.println("HUGO BOSS DAHLGREN");
     }
 }
